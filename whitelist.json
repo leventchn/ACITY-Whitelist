@@ -19,7 +19,7 @@
     2599241397, 703549374, 840494675
   ],
   "gui_admin_isimleri": [
-    "leventchn","Kaan372009","TheWiexa","jordi1337_acc","01Mersin33",
+    "Kaan372009","TheWiexa","jordi1337_acc","01Mersin33",
     "SrTheMico1963","DusuncesizGhost","Blury_l337","yusufsgame",
     "leventchn2018","mico_v31","Ahmet5858323","Trates29",
     "fevzi123432","KayaLegit","HzJordi","moruqadam35",
@@ -28,13 +28,13 @@
   "silah_kurallari": {
     "RPG-7": {
       "whitelist": {
-        "users": [0],
+        "users": [348492240],
         "groups": [
           {"id": 12998004, "rank": 193}
         ]
       },
       "blacklist": {
-        "users": [1994446226, 2367571504, 7280247568, 1586301934, 348492240],
+        "users": [1994446226, 2367571504, 7280247568, 1586301934],
         "groups": [
           {"id": 0, "rank": 0}
         ]
