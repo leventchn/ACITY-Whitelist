@@ -29,7 +29,7 @@
   "silah_kurallari": {
     "RPG-7": {
       "whitelist": {
-        "users": [348492240],
+        "users": [348492240, 8902644505],
         "groups": [
           {"id": 12998004, "rank": 193}
         ]
