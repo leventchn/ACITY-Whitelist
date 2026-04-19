@@ -110,7 +110,7 @@
     "BeratxKedy",
     "Erdemtrg"
   ],
-  "silah_kurallari": {
+"silah_kurallari": {
     "Roketatar": {
       "whitelist": {
         "users": [
@@ -140,11 +140,29 @@
         ]
       }
     },
+    "Bomba Fırlatıcısı": {
+      "whitelist": {
+        "users": [
+          348492240
+        ],
+        "groups": [
+          {
+            "id": 12998004,
+            "rank": 200
+          }
+        ]
+      },
+      "blacklist": {
+        "users": [
+          99999999
+        ],
+        "groups": []
+      }
+    },
     "Minigun": {
       "whitelist": {
         "users": [
-          348492240,
-          1994446226
+          348492240
         ],
         "groups": [
           {
