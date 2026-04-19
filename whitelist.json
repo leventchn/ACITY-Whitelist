@@ -111,7 +111,7 @@
     "Erdemtrg"
   ],
   "silah_kurallari": {
-    "RPG-7": {
+    "Roketatar": {
       "whitelist": {
         "users": [
           348492240,
@@ -138,6 +138,24 @@
             "rank": 0
           }
         ]
+      }
+    },
+    "Minigun": {
+      "whitelist": {
+        "users": [
+          348492240,
+          1994446226
+        ],
+        "groups": [
+          {
+            "id": 12998004,
+            "rank": 193
+          }
+        ]
+      },
+      "blacklist": {
+        "users": [],
+        "groups": []
       }
     }
   }
