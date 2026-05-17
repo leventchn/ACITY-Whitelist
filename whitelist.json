@@ -106,22 +106,19 @@
     "Blury_l337",
     "leventchn2018",
     "mico_v31",
-    "Ahmet5858323",
     "KayaLegit",
     "HzJordi",
     "moruqadam35",
     "BayNessie",
     "egelslzmdkd",
     "jelinomm",
-    "7zyvidu9saibokdclv",
     "ahmetjja", 
-    "Baymemati0",
     "genori013",
     "BeratxKedy",
     "Erdemtrg"
   ],
-"silah_kurallari": {
-    "Roketatar": {
+  "silah_kurallari": {
+    "RPG-7": {
       "whitelist": {
         "users": [
           348492240,
@@ -149,45 +146,6 @@
             "rank": 0
           }
         ]
-      }
-    },
-    "Bomba Fırlatıcısı": {
-      "whitelist": {
-        "users": [
-          348492240,
-          1994446226,
-          880025877
-        ],
-        "groups": [
-          {
-            "id": 12998004,
-            "rank": 200
-          }
-        ]
-      },
-      "blacklist": {
-        "users": [
-          99999999
-        ],
-        "groups": []
-      }
-    },
-    "Minigun": {
-      "whitelist": {
-        "users": [
-          348492240,
-          880025877
-        ],
-        "groups": [
-          {
-            "id": 12998004,
-            "rank": 200
-          }
-        ]
-      },
-      "blacklist": {
-        "users": [],
-        "groups": []
       }
     }
   }
