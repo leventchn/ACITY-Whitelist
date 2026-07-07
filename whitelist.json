@@ -1,7 +1,6 @@
 {
-  "ozel_hediyeler":
-    "10938509270": "AK-47",
-    "10938509270": "M4A1 MODDED"
+  "ozel_hediyeler": {
+    "10938509270": ["AK-47", "M4A1 MODDED"]
   },
   "mafia_bypass_wl": [
     10938509270
@@ -64,3 +63,5 @@
         ]
       }
     }
+  }
+}
